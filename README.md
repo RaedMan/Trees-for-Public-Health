@@ -21,3 +21,5 @@ Community areas that would benefit the most include:
 3. Fuller Park
 4. West Garfield Park
 5. Englewood
+
+Based on the [Chicago Region Trees Initiative Priority Map](https://mortonarb.maps.arcgis.com/apps/View/index.html?appid=0700702eb8fa4c31a4d957d71a09d690).
