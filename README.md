@@ -4,7 +4,7 @@ This repo is to develop a strategy to include trees to improve public health. At
 
 The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US, at about 17% tree cover which is about 3.5 million trees.
 
-Just taking into account trees alone (without looking at climate change, air quality, health or sociodemographics), the Chicago community areas that would benefit the most include:
+Just taking into account trees alone (without looking at climate change, air quality, health or sociodemographics), the Chicago community area tree canopy is as follows:
 
 * Highest tree canopy
 1.  Forest Glen 48.72%
