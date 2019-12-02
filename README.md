@@ -2,7 +2,7 @@
 
 This repo is to develop a strategy to include trees to improve public health. At first, this will be a scan of the environment for evidence-based research, knowing that sometimes, the path may lack evidence. Resources, white papers, best-pracices, etc., will also be saved here.
 
-While the data and evidence has always shown that there has always been a tree equity disparity in urban canopies, this is not lost on the communities that are most vulnerable and endure the effects of urban heat islands, flooding, air pollution and all that climate change has brought on to their communities, while the known health and environmental benefits of having an urban canaopy continues to be discounted and unrealized.  The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US, at about 17% tree cover which is about 3.5 million trees.
+While the data and evidence has shown that there is a tree equity disparity in urban canopies, this is not lost on the communities that are most vulnerable and endure the effects of urban heat islands, flooding, air pollution and all that climate change has brought on to their communities, while the known health and environmental benefits of having an urban canaopy continues to be discounted and unrealized.  The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US, at about 17% tree cover which is about 3.5 million trees.
 
 Just taking into account trees alone (without looking at climate change, air quality, health or sociodemographics), the Chicago community area tree canopy is as follows:
 
