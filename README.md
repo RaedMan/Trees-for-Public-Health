@@ -1,10 +1,10 @@
 # Trees for Public Health
 
-This repo is to develop a strategy to include trees to improve public health. At first, this will be a scan of the environment for evidence-based research, knowing that sometimes, the path may lack evidence. Resources, white papers, best-pracices, etc., will also be saved here.
+This repo is to develop a strategy to include trees to improve public health. At first, this will be a scan of the environment for evidence-based research, resources, best-pracices, etc.
 
-While the data and evidence has shown that there is a tree equity disparity in urban canopies, this is not lost on certain communities that are the most vulnerable and suffer most of the effects due to urban heat islands, flooding, air pollution and all that climate change has brought on to their communities, while the known health and environmental benefits of having an urban canopy continues to be unrealized.  The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US.
+While the data and evidence shows that there is a tree equity disparity in urban canopies across the US, this is not lost on communities that have less of an urban forest. As a result, they become more vulnerable to urban heat islands, flooding, air pollution, and other climate change effects, while the known health and environmental benefits of having a robust urban canopy continues to decrease in their communities.  The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US.
 
-Just taking into account the urban tree canopy alone, the Chicago community areas are as follows:
+Just taking into account the urban tree canopy, the Chicago community area canopy are as follows:
 
 * Highest tree canopy
 1.  Forest Glen 48.72%
