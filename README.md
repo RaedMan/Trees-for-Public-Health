@@ -11,7 +11,7 @@ Just taking into account the urban tree canopy alone, the Chicago community area
 2.  Beverly 44.36%
 3.  North Park 34.61%
 
-* Least tree canopy
+* Lowest tree canopy
 1.  Lower West Side 6.91%
 2.  Archer Heights 7.58%
 3.  Armour Square 8.15%
