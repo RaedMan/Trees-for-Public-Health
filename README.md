@@ -25,4 +25,4 @@ Just taking into account the urban tree canopy, the Chicago community area canop
 
 Based on the [Chicago Region Trees Initiative Priority Map](https://mortonarb.maps.arcgis.com/apps/View/index.html?appid=0700702eb8fa4c31a4d957d71a09d690).
 
-Through the [Open Air project] (https://github.com/GeoDaCenter/airquality), prioritizing communities based on sociodemographics, health, air quality, weather, climate, and tree canopy data can determine the allocation of community tree building, green corps job training, and tree plantings.
+Through the [Open Air project](https://github.com/GeoDaCenter/airquality), prioritizing communities based on sociodemographics, health, air quality, weather, climate, and tree canopy data can determine the allocation of community tree building, green corps job training, and tree plantings.
