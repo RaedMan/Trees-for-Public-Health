@@ -1,10 +1,10 @@
 # Trees for Public Health
 
-This repo is to develop a strategy to include trees to improve public health. At first, this will be a scan of the environment for evidence-based research, resources, best-pracices, etc.
+This repo is to develop a strategy to include trees to help improve public health. At first, this will be a scan of the environment for evidence-based research, resources, best-pracices, etc.
 
-While the data and evidence shows that there is a tree equity disparity in urban canopies across the US, this is not lost on communities that have less of an urban forest. As a result, they become more vulnerable to urban heat islands, flooding, air pollution, and other climate change effects, while the known health and environmental benefits of having a robust urban canopy continues to decrease in their communities.  The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US.
+While the data and evidence shows that there is a tree equity disparity in urban canopies across the US, this is not lost on communities that already have a small exposure to an urban forest around their neighborhoods. As a result, they may become more vulnerable to urban heat islands, flooding, air pollution, and other climate change effects, and less likely to benefit from the known health and environmental advantages of having a robust urban canopy.  The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US.
 
-Just taking into account the urban tree canopy, the Chicago community area canopy are as follows:
+Just taking into account the urban tree canopy in Chicago:
 
 * Highest tree canopy
 1.  Forest Glen 48.72%
@@ -25,4 +25,4 @@ Just taking into account the urban tree canopy, the Chicago community area canop
 
 Based on the [Chicago Region Trees Initiative Priority Map](https://mortonarb.maps.arcgis.com/apps/View/index.html?appid=0700702eb8fa4c31a4d957d71a09d690).
 
-Through the [Open Air project](https://github.com/GeoDaCenter/airquality), prioritizing communities based on sociodemographics, health, air quality, weather, climate, and tree canopy data can determine the allocation of community tree building, green corps job training, and tree plantings.
+Through the [Open Air project](https://github.com/GeoDaCenter/airquality), prioritizing communities based on sociodemographics, health, air quality, weather, climate, and tree canopy data may better determine the allocation of community building, green corps job training, and tree plantings.
