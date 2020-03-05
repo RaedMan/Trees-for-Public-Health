@@ -27,7 +27,7 @@ Based on the [Chicago Region Trees Initiative Priority Map](https://mortonarb.ma
 
 Through the [Open Air project](https://github.com/GeoDaCenter/airquality), prioritizing communities based on sociodemographics, health, air quality, weather, climate, and tree canopy data may better determine the allocation of community building, green corps job training, and tree plantings.
 
-There are several opportunities to pilot passive techniques for air pollution mitigation through green infrastructure to improve the naturally existing urban canopy. Several Chicago nonprofits already have existing plans for Chicago's urban canopy. We want to borrow from their existing work to complement our work, not to replace their plans.
+There are several opportunities to pilot passive techniques for air pollution mitigation through green infrastructure to improve the naturally existing urban canopy. Several Chicago community organizations already have existing plans for Chicago's and their neighborhood's urban canopy. We want to borrow from their successes to complement our work and not to replace their plans.
 
 Through discussions with local and national partners, there is an opportunity to obtain urban tree canopy data for this project. The new data set includes tree census and estimation of the canopy density and heights using Light Detection and Ranging (LiDAR). The new tools may better assist in the determination of communities with reduced urban canopies that may also have greater needs due to higher chronic cardiovascular and pulmonary diseases, high hardship, low child opportunity, and low air quality.
 
