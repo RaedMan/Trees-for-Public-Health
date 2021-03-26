@@ -23,7 +23,7 @@ Just taking into account the urban tree canopy in Chicago:
 9.  Loop 10%
 10. West Lawn 10.73%
 
-Based on the [Chicago Region Trees Initiative Priority Map](https://mortonarb.maps.arcgis.com/apps/View/index.html?appid=0700702eb8fa4c31a4d957d71a09d690).
+Based on 2010 data from the [Chicago Region Trees Initiative Priority Map](https://mortonarb.maps.arcgis.com/apps/View/index.html?appid=0700702eb8fa4c31a4d957d71a09d690).
 
 Through the [Open Air project](https://github.com/GeoDaCenter/airquality), prioritizing communities based on sociodemographics, health, air quality, weather, climate, and tree canopy data may better determine the allocation of community building, green corps job training, and tree plantings.
 
