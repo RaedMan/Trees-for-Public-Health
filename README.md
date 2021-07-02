@@ -1,6 +1,8 @@
 # Trees for Public Health
 
-This repo is to develop a strategy to include the promotion of conservation and maintenance of the existing urban canopy, planting new trees and sustaining them to improve public health. At first, this will be a scan of the environment for evidence-based research, resources, best-practices, etc. to end systemic tree loss. It also serves to accelerate the latest science and innovative porgamming to promote alignment and unification of ad hoc and disparate tree policies across all stakeholders into a cohesive and coordinated approach to tree planting and sustainability of Chicago’s urban canopy.
+This repo was created on July 19, 2019 to develop a strategy to include the promotion of conservation and maintenance of the existing urban canopy, planting new trees and sustaining them to improve public health. At first, this will be a scan of the environment for evidence-based research, resources, best-practices, etc. to end systemic tree loss. It also serves to accelerate the latest science and innovative porgamming to promote alignment and unification of ad hoc and disparate tree policies across all stakeholders into a cohesive and coordinated approach to tree planting and sustainability of Chicago’s urban canopy.
+
+
 
 While the data and evidence shows that there is a tree equity disparity in urban canopies across the US, this is not lost on communities that already have a small exposure to an urban forest around their neighborhoods. As a result, they may become more vulnerable to urban heat islands, flooding, air pollution, and other climate change effects, and less likely to benefit from the known health and environmental advantages of having a robust urban canopy. The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US.
 
