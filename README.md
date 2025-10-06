@@ -20,7 +20,7 @@ To justify CDPH involvement in tree planting to further the health of neighborho
 
 Finally, Our Roots Chicago had to ensure equity and grounded in budget, plans, policies and programs that align, especially since the funding is through Chicago’s first-ever social bond issuance. The following are what finally guided Our Roots Chicago:
 
-* **Chicago Climate Bond -** *$173M bond to invest in meaningful, substantive, and justice-oriented climate projects that will provide the City’s underserved communities with resilient infrastructure and green workforce development opportunities. <ins>$46 million for equity tree planting (75,000 trees in 5 years)</ins>.[(1)](https://www.chicago.gov/content/dam/city/sites/climate-action-plan/documents/bond_info.pdf)*
+* **Chicago Climate Bond -** *$173M social bond (the first time the City of Chicago issued one) to invest in meaningful, substantive, and justice-oriented climate projects that will provide the City’s underserved communities with resilient infrastructure and green workforce development opportunities. <ins>$46 million for equity tree planting (75,000 trees in 5 years)</ins>.[(1)](https://www.chicago.gov/content/dam/city/sites/climate-action-plan/documents/bond_info.pdf)*
       
 * **Chicago Budget Equity -** *CDPH’s Environment, Climate, & Energy Outcomes inform decision making in policy areas such as land use/zoning, permitting, and enforcement to promote environmental justice through a cumulative impact assessment, including tree canopy cover.[(2)](https://www.chicago.gov/content/dam/city/depts/obm/supp_info/budget-equity/Budget-Equity-Tool-Final.pdf)*
       
