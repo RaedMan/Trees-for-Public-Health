@@ -65,4 +65,4 @@ As you can see, there are a multitude of community organizations, government dep
 Everyone deserves the right to access nature and its health benefits, just as nature and animals have the right to exist. We brought it right to people's homes - to directly see and feel the benefits of having nature outside their front door. Some day, we won't be able to tell where nature ends and the city begins, it will become one.
 
 Please cite this work as:
-
+Mansour, R. (n.d.). Trees for Public Health [GitHub repository Trees for Public Health [Source code; project initiated July 2019; regularly updated through 2025]. GitHub. Retrieved Month/Day/Year, from https://github.com/RaedMan/Trees-for-Public-Health
