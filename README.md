@@ -1,6 +1,7 @@
 # Trees for Public Health
 
 GENESIS
+
 On June 6, 2019, I was invited to a workshop to discuss trees and their beneficial effects to health by The Nature Conservancy of Illinois at the 2019 Pritzker Forum on Global Cities Workshop "Nature for Urban Health” at the Peggy Notebaert Nature Museum. And then on July 9, 2019, I attended CRTI's Lydia Scott's presentation at Chi Hack Night on “Using Urban Forestry Data to Improve Health and Quality of Life in the Chicago Region.” I approached Lydia and we began fruitful conversations around how trees and public health data can be used together to improve community health.
 
 This repo was then created on July 19, 2019 to develop a public health strategy to improve Chicago's urban canopy using a health equity lens to equitably plant new trees driven by community, maintining and preserving  existing trees, improving tree benefit communications, and providing workforce development and job training. At first, this was a scan of the environment for evidence-based research, resources, best-practices, etc. It also serves to accelerate the latest science and innovative porgamming to promote alignment and unification of ad hoc and disparate tree initiatives across all stakeholders into a cohesive and coordinated approach to tree planting and sustainability of Chicago’s urban canopy by prioritizing vulnerable communities while working with communities.
