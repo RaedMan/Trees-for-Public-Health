@@ -10,6 +10,7 @@ I began an [Openlands' TreeKeepers](https://openlands.org/programs/treekeepers-c
 
 Prior to this, we were working on Phase 1 of [The Partnership for Healthy Cities](https://cities4health.org) award that was applied for by CDPH in 2017 and funded the Center for Spatial Data Science at University of Chicago to collect and visualize baseline air quality data for the City of Chicago from NASA satellites, EPA sensor networks, USGS, and NOAA climate data. In Phase 2, we added trees to mapping air quality in 2020 after pitching the ideas of using a map based tool that can help prioritize communities and allocate trees and resources internally to CDPH and the Mayor's Office, and then to CRTI and USFS in December 2019. CRTI's Tree Canopy data was added to public health, environmental, social and economic data to better understand tree canopy in vulnerable neighborhoods throughout the city and to reduce the impacts of climate change on these communities. The Center for Spatial Data Science created an Environmental Tool that was piloted late 2021 to 2022.
 
+
 ## PLAN
 
 To draft a tree equity plan, I first applied CDC's [One Health](https://www.cdc.gov/one-health/about/index.html) as a framework that reveals how the health of humans, animals, and the environment are inextricably connected, emphasizing that vulnerability in one impacts the others. Basically, if one is vulnerable, we are all vulnerable.
@@ -32,6 +33,9 @@ Finally, Our Roots Chicago had to ensure equity and grounded in budget, plans, p
 
 * **Environmental Justice Executive Order -** *Advancing the City’s commitment to environmental justice for all Chicagoans, making consideration of health and other community impacts a priority across departments and in City policies.[(6)](https://www.chicago.gov/content/dam/city/depts/cdph/environment/CoC_Executive-Order-2023-3.pdf)*
 
+*The original summary drafted in December 2019 and later initially approved in January 2020 will be outlined here soon.*
+
+
 ## TREE EQUITY WORKING GROUP
 
 While the data clearly shows tree inequity and disparities in urban canopies across the US, this is not lost on our frontline communities that that already disproportionately bear the brunt of environmental hazards and climate change impacts. As a result, they may become more vulnerable to the risks of extreme heat and urban heat islands, flooding, air pollution, as well as a loss of the health and climate co-benefits that trees provide. The latest research by CRTI shows that Chicago has one of the smallest urban canopies of any big city in the US, based on 2010 data from the [Chicago Region Trees Initiative Priority Map](https://mortonarb.maps.arcgis.com/apps/View/index.html?appid=0700702eb8fa4c31a4d957d71a09d690).
@@ -40,7 +44,6 @@ Prioritizing communities based on sociodemographics, health, air quality, climat
 
 Through discussions with local and national partners, the data on tree census and estimation of the canopy density and heights using Light Detection and Ranging (LiDAR), new tools that may better assist in the determination of neighborhoods with reduced urban canopies that may also have greater needs due to higher chronic cardiovascular and pulmonary diseases, high economic hardship, and low air quality. However, data is only as good as when it was last taken and sometimes it's not updated often or nonexistant. We used to state that this was a data-driven initiative because you can't manage what you don't measure, but no matter how great the latest data and tech innovations are, this initiative had become community-driven and data-informed. We initially ground truthed the data, but what really made a difference was residents and not data, who know where trees are and aren't in real time. This is how the [Tree Equity Working Group](https://www.chicago.gov/city/en/sites/our-roots-chicago/home/tree-equity.html#:~:text=Community%20Tree%20Equity%20Working%20Group) (TEWG) was created in August 2021 when we had about 20 people join the first meeting of Our Roots, to co-create and co-develop with community, researchers and government - together. Not for communities, but with communities. The TEWG is now close to 200 people from 50 organizations and they have been meeting ever since, open to the public, on the second Tuesday of every month for the last four years without one meeting being cancelled. They decided on the logo, helped desgine the website and its content, marjeting materials, and direction and goals of the initiative with the whole of government present at every meeting. It was a unique opportunity to come face to face in a discussion with governemnt and communities on trees.
 
-*The original summary drafted in December 2019 and later initially approved in January 2020 will be outlined here soon.*
 
 ## TREE AMBASSADOR PROGRAM
 
@@ -50,8 +53,10 @@ This became the [Tree Ambassador Program](https://mortonarb.org/plant-and-protec
 
 *More details of the TAP development will be outlined here soon.*
 
+
 ## RESULTS
 *Details of metrics and results will be outlined soon, but by the end of 2022, the first year of the program, we achieved a net positive tree plantings vs tree loss for the first time in 10 years. This continues today. Also, 311 tree planting requests shifted from the northside to the west and southsides for the first time, with majority of tree plantings occuring in North Lawndale and other communities for the first time. It has also been studied that trees requested by TAP members survived over the two year warranty of the tree vs non TAP requested trees - showing that TAP-friven community-requested trees are invested in caring for those trees. A peer reviewed paper is forthcoming on mortality and Chicago's canopy - stay tuned.*
+
 
 ## FINAL THOUGHTS
 The benefit of trees are multifold and include: promoting and improving physical and mental health, improving social cohesion, reducing stress, increasing property values, reducing energy bills, mitigating climate change, reducing urban heat islands and increasing cooling effects, decreasing soil erosion, storm water management and flood prevention, reducing air pollution, repairing local tree biodiversity, providing critical bird, small animal and essential insect habitats, amongst many other environmental benefits.
