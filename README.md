@@ -23,7 +23,7 @@ Finally, Our Roots Chicago had to ensure equity and grounded in budget, plans, p
 
 * **Chicago Climate Bond -** *$173M social bond (the first time the City of Chicago issued one) to invest in meaningful, substantive, and justice-oriented climate projects that will provide the City’s underserved communities with resilient infrastructure and green workforce development opportunities. <ins>$46 million for equity tree planting (75,000 trees in 5 years)</ins>.[(1)](https://www.chicago.gov/content/dam/city/sites/climate-action-plan/documents/bond_info.pdf)*
       
-* **Chicago Budget Equity -** *CDPH’s Environment, Climate, & Energy Outcomes inform decision making in policy areas such as land use/zoning, permitting, and enforcement to promote environmental justice through a cumulative impact assessment, including tree canopy cover.[(2)](https://www.chicago.gov/content/dam/city/depts/obm/supp_info/budget-equity/Budget-Equity-Tool-Final.pdf)*
+** **Chicago Budget Equity -** *CDPH’s Environment, Climate, & Energy Outcomes inform decision making in policy areas such as land use/zoning, permitting, and enforcement to promote environmental justice through a cumulative impact assessment, including tree canopy cover.[(2)](https://www.chicago.gov/content/dam/city/depts/obm/supp_info/budget-equity/Budget-Equity-Tool-Final.pdf)*
       
 * **Chicago 2022 Climate Action Plan -** *Comprehensive plan to reduce the city’s GHG emissions 62% by 2040, anchored in values of economic inclusion and savings, pollution burden reduction, and equitable access to critical infrastructure and community health and resilience.[(3)](https://www.chicago.gov/content/dam/city/sites/climate-action-plan/documents/Chicago-CAP-071822.pdf)*
       
