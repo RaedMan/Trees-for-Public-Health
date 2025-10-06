@@ -18,7 +18,7 @@ To guide the framework, I used CDPH's Healthy Chicago 2025 to advance racial equ
 
 To justify CDPH involvement in tree planting to further the health of neighborhoods, the City of Chicago had adopted a “health in all policies” approach to make sure that the government works with communities to shape our social, economic, and physical environments in ways that promote health and racial equity.
 
-Finally, Our Roots Chicago had to ensure equity amd grounded in budget, plans, policies and programs that align, especially since the funding is through Chicago’s first-ever social bond issuance. The following are what finally guided Our Roots Chicago:
+Finally, Our Roots Chicago had to ensure equity and grounded in budget, plans, policies and programs that align, especially since the funding is through Chicago’s first-ever social bond issuance. The following are what finally guided Our Roots Chicago:
 
 * **Chicago Climate Bond -** *$173M bond to invest in meaningful, substantive, and justice-oriented climate projects that will provide the City’s underserved communities with resilient infrastructure and green workforce development opportunities. $46 million for equity tree planting.[(1)](https://www.chicago.gov/content/dam/city/sites/climate-action-plan/documents/bond_info.pdf)*
       
