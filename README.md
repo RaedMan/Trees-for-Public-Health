@@ -66,4 +66,4 @@ Everyone deserves the right to access nature and its health benefits, just as na
 
 Please cite this work as:
 
-*Mansour, R. (n.d.). Trees for Public Health [GitHub repository Trees for Public Health [Source code; project initiated July 2019; regularly updated through 2025]. GitHub. Retrieved Month/Day/Year, from https://github.com/RaedMan/Trees-for-Public-Health*
+## *Mansour, R. (n.d.). Trees for Public Health [Source code; project initiated 2019; regularly updated through 2025]. GitHub. Retrieved Month, Day, Year, from https://github.com/RaedMan/Trees-for-Public-Health*
