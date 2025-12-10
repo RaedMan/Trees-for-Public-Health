@@ -13,7 +13,7 @@ Prior to this, we were working on Phase 1 of [The Partnership for Healthy Cities
 
 ## PLAN
 
-To draft a tree equity plan, I first applied CDC's [One Health](https://www.cdc.gov/one-health/about/index.html) as a framework that reveals how the health of humans, animals, and the environment are inextricably connected, emphasizing that vulnerability in one impacts the others. Basically, if one is vulnerable, we are all vulnerable.
+To draft a tree equity plan, I first applied CDC's [One Health](https://www.cdc.gov/one-health/about/index.html) as a framework that reveals how the health of humans, animals, and the environment are inextricably connected, emphasizing that vulnerability in one impacts the others. Basically, if one is vulnerable, we are all vulnerable. When you widen the justification of the framework, people can then decide for themselves the priorities they become involved with, whether it's biodiversity, shade, beautification, air quality, stormwater runoff, etc. Design it wide enough for anyone to practice as narrow as they want. 
 
 To guide the framework, I used CDPH's Healthy Chicago 2025 to advance racial equity to close Chicago’s life expectancy gap to frame a tree equity strategy using public health indicators, under the section “Further the Health and Vibrancy of Neighborhoods” where all communities should have equitable access to environments that promote optimal health and well-being.
 
