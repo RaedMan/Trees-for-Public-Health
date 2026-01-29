@@ -57,7 +57,7 @@ This became the [Tree Ambassador Program](https://mortonarb.org/plant-and-protec
 
 
 ## RESULTS
-*Details of metrics and results will be outlined soon, but by the end of 2022, the first year of the program, we achieved a net positive tree plantings vs tree loss for the first time in 10 years. This continues today. Also, 311 tree planting requests shifted from the northside to the west and south sides for the first time, with majority of tree plantings occurring in North Lawndale and other communities for the first time. It has also been studied that trees requested by TAP members survived over the two-year warranty of the tree vs non-TAP requested trees - showing that TAP-driven community-requested trees are invested in caring for those trees. A peer reviewed paper is forthcoming on mortality and Chicago's canopy - stay tuned.*
+*Details of metrics and results will be outlined soon, but by the end of 2022, the first year of the program, we achieved a net positive tree plantings vs tree loss for the first time in 10 years. This continues today. Also, 311 tree planting requests shifted from the northside to the west and south sides for the first time, with majority of tree plantings occurring in North Lawndale and other communities for the first time. It has also been studied that trees requested by TAP members survived over the two-year warranty of the tree vs non-TAP requested trees - showing that TAP-driven community-requested trees are invested in caring for those trees. A peer reviewed paper is forthcoming on mortality and Chicago's canopy - stay tuned. See City's tracking of tree plantings up to 8/23/2023 at [Tree Canopy Equity Expansion](https://chirecoveryplan.com/programs/tree-canopy-equity-expansion/)*
 
 
 ## FINAL THOUGHTS
